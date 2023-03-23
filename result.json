@@ -1,0 +1,17 @@
+[  
+  {
+   "id": 1,
+   "type": "message",
+   "date": "9999-99-99T99:99:99",
+   "from": "user 1",
+   "from_id": 1,
+   "text": "Sample text"
+  },
+  {
+   "id": 2,
+   "date": "9999-99-99T99:99:99",
+   "from": "user 2",
+   "from_id": 2,
+   "text": "Sample text"
+  }
+]
